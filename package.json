@@ -1,1 +1,22 @@
-ewqgIm5hbWUiOiAiYWlydGlnaHQtbGFuZGluZy1wYWdlIiwKoCJ2ZXJzaW9uIjogIjEuMC4wIiwKoCJkZXNjcmlwdGlvbiI6ICJBIE5leHQuanMgYXBwbGljYXRpb24iLAqgIm1haW4iOiAiaW5kZXguanMiLAqgInNjcmlwdHMiOiB7CqCgImRldiI6ICJuZXh0IGRldiIsCqCgImJ1aWxkIjogIm5leHQgYnVpbGQiLAqgoCJzdGFydCI6ICJuZXh0IHN0YXJ0IgqgfSwKoCJkZXBlbmRlbmNpZXMiOiB7CqCgIm5leHQiOiAiXjExLjEuMyIsCqCgInJlYWN0IjogIl4xNy4wLjIiLAqgoCJyZWFjdC1kb20iOiAiXjE3LjAuMiIsCqCgIkBlbW90aW9uL3JlYWN0IjogIl4xMS43LjEiLAqgoCJAZW1vdGlvbi9zdHlsZWQiOiAiXjExLjYuMCIKoH0sCqAiZGV2RGVwZW5kZW5jaWVzIjoge30sCqAiZW5naW5lcyI6IHsKoKAibm9kZSI6ICI+PTE0LngueCA8PTE2LngueCIKoH0KfQo=
+{
+ "name": "airtight-landing-page",
+ "version": "1.0.0",
+ "description": "A Next.js application",
+ "main": "index.js",
+ "scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start"
+ },
+ "dependencies": {
+  "next": "^11.1.3",
+  "react": "^17.0.2",
+  "react-dom": "^17.0.2",
+  "@emotion/react": "^11.7.1",
+  "@emotion/styled": "^11.6.0"
+ },
+ "devDependencies": {},
+ "engines": {
+  "node": ">=14.x.x <=16.x.x"
+ }
+}
