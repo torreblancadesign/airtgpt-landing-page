@@ -1,1 +1,25 @@
-//code will be updated after all other files have been created
+
+
+
+{
+  "name": "next-js-app",
+  "version": "1.0.0",
+  "description": "A Next.js application",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^10.0.3",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  },
+  "devDependencies": {
+    "@emotion/styled": "^11.0.0"
+  },
+  "engines": {
+    "node": ">=12.x.x"
+  }
+}
