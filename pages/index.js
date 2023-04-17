@@ -1,14 +1,13 @@
-
-
 import React from 'react';
-import Component from './component/component.js';
+import Component from '../components/Component';
 
 const Index = () => {
-   return (
-      <div>
-        <Component />
-      </div>
-   );
+  return (
+   <div>
+    <Component />
+   </div>
+  );
 }
 
 export default Index;
+
