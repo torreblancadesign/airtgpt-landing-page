@@ -69,7 +69,7 @@ const Component = () => {
   <>
    <Navbar>
     <NavbarTitle>AirGPT</NavbarTitle>
-    <NavbarLink href="https://airtable.com" target="\_blank" rel="noopener noreferrer">
+    <NavbarLink href='https://airtable.com' target='\_blank' rel='noopener noreferrer'>
      Visit Airtable
     </NavbarLink>
    </Navbar>
